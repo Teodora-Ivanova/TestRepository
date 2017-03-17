@@ -10,7 +10,11 @@ import java.util.Scanner;
 //hghghg
 //dkhasdgkhags
 
+<<<<<<< HEAD
 //test
+=======
+//du hast
+>>>>>>> 4d14e3adad82f1a63b391eae9de4b8af857a039e
 public class File {
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner input = new Scanner(System.in);
